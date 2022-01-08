@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eugeneswift124 otherwise known as Person.
 - 👀 I’m interested in Mobile game/app development
 - 🌱 I’m currently learning Swift/Lua/Koltlin
-- 💞️ I’m looking to collaborate on Twitter
+- 💞️ I’m looking to collaborate on Roblox I know I am corney
 - 📫 How to reach me Go to twitter @Eugene_hi124 
 
 <!---
