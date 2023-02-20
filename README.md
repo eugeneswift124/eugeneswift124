@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rikasucksatprogramming otherwise known as Rika.
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning CSS and JavaScript
-- 💞️ I’m  looking to colaberate at the moment
-- 📫 How to reach me Go to twitter @Rika_hi124 
-- 🏳️‍🌈 The Gay programmer
+- 👀 I’m interested in Web Development and App development
+- 🌱 I’m currently learning JavaScript, Flutter, Swift, Kotlin
+- 💞️ I’m looking to colaberate at the moment
+
+
 
 
